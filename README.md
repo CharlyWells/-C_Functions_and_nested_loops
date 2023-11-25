@@ -621,3 +621,5 @@ Repo:
 GitHub repository: alx-low_level_programming
 Directory: 0x02-functions_nested_loops
 File: 104-fibonacci.c
+
+I use example gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-alphabet.c -o 1-alphabet in catching errors
